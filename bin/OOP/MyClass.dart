@@ -17,7 +17,7 @@ class MyClass{
   var MyName = 'Tanna';
   var Alphabet = ['A','B','C','D','E'];
 
-  addTwoNumber(int x, int y){
+  static addTwoNumber(int x, int y){
     print(x+y);
   }
 
